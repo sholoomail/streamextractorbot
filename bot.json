@@ -2,5 +2,5 @@
   "bb_sync_version":"1.0",
   "name":"streamextractorbot",
   "git_remote":"git@github.com:sholoomail/streamextractorbot.git",
-  "csv_url":null,
+  "csv_url":null
 }
