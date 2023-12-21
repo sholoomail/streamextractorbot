@@ -1,6 +1,6 @@
 {
   "bb_sync_version":"1.0",
   "name":"streamextractorbot",
-  "git_remote":"git@github.com:bots-business/bb-bot-test.git",
-  "csv_url":"https://example.com/csv"
+  "git_remote":"git@github.com:sholoomail/streamextractorbot.git",
+  "csv_url":null,
 }
